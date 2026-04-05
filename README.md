@@ -1,3 +1,4 @@
+![Confusion Matrix](results/plots/transfer_confusion_matrix_normalized.png)
 # 🧠 Colon Cancer Tissue Classification using Deep Learning
 
 This project focuses on **classifying histopathological colon tissue images** into 8 categories using:
